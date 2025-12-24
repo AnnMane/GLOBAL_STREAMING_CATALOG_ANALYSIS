@@ -40,8 +40,4 @@ The goal was to visualize the growth of content libraries over time, compare the
 * **Netflix's "Originals" Boom:** The Production Timeline reveals a massive exponential spike in content added by Netflix in the last decade, highlighting their pivot to mass production of original content.
 * **Library Size Comparison:** Disney+ has the smallest content library by volume compared to Amazon and Netflix, indicating a more selective content catalog strategy.
 
-## 📂 How to View
-1.  **PDF Report:** Download `Streaming_Wars_Report.pdf` for a quick static view.
-2.  **Interactive File:** Download `Streaming_Wars.pbix` and open it in Microsoft Power BI Desktop to explore the data interactively.
-
 ---
