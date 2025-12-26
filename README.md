@@ -1,4 +1,4 @@
-# 🎬 The Global Streaming Wars - Power BI Analysis ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 🎬 The Global Streaming Wars - Power BI Analysis ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-FFD580?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 📊 Project Overview
 This interactive Power BI dashboard provides a deep dive into the content strategies of the world's leading streaming platforms: **Netflix, Amazon Prime, and Disney+**.
